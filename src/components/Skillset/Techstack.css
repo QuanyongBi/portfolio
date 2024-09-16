@@ -1,0 +1,52 @@
+/* Techstack.css */
+.techstack-section {
+    padding: 50px 0;
+    background-color: none;
+  }
+  
+  .techstack-title {
+    text-align: center;
+    margin-bottom: 40px;
+    font-size: 2.5rem;
+    color: #333;
+  }
+  
+  .techstack-col {
+    margin-bottom: 30px;
+  }
+  
+  .techstack-card {
+    display: flex;
+    align-items: center;
+    background-color: #0000008d;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .techstack-icon {
+    font-size: 3rem;
+    color: #007bff;
+    margin-right: 15px;
+  }
+  
+  .techstack-info {
+    flex: 1;
+  }
+  
+  .techstack-info h5 {
+    margin-bottom: 10px;
+    font-size: 1.2rem;
+    color: #ffffff;
+  }
+  
+  .progress {
+    height: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .progress-bar {
+    background-color: #007bff;
+  }
+  
